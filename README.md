@@ -9,11 +9,10 @@
 - 📫 How to reach me **shuklapoorvi26@gmail.com**
 - ⚡ Fun fact **I am funny🫣**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/poorvishuklaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poorvishuklaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/poorvi-shukla-744532247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poorvi-shukla-744532247" height="30" width="40" /></a>
-<a href="https://instagram.com/ko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ko" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/poorvishukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="poorvishukla" height="30" width="40" /></a>
 </p>
 
