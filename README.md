@@ -4,8 +4,8 @@
 
 <p align="left"> <img align="right" width="300" src="https://i.pinimg.com/474x/b0/b8/4c/b0b84cf794860e3a2253ea4ffcb5a6f1.jpg" alt="poorvishukla" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
-- 💬 Ask me about **Javascript,React,Nextjs**
+- 🌱 I’m currently working as a **Software Developer** 
+- 💬 Ask me about **Javascript,Java,SQL**
 - 📫 How to reach me **shuklapoorvi26@gmail.com**
 - ⚡ Fun fact **I am funny🫣**
 
